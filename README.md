@@ -28,3 +28,9 @@ Workout Categories
     Cardio: Treadmill, Cycling, Jogging, Rowing, Swimming, HIIT, Jump Rope, Stair Climbing
     Strength: Squats, Deadlifts, Push-ups, Bench Press, Pull-ups, Dumbbell Rows, Overhead Press, Bicep Curls, Plank Holds
     Flexibility: Yoga, Pilates, Stretching, Tai Chi, Foam Rolling, Barre Workouts, Dynamic Stretches, Mobility Drills
+How to Use This Dataset
+
+   1) Download the dataset: You can download the expanded_workout_data.csv file from the repository.
+   2) Import into your project: Use your preferred data analysis tools (e.g., Pandas, Numpy, etc.) to load the dataset into your project.
+   3) Preprocessing: Clean the dataset (if necessary), handle categorical data, and normalize numerical features.
+   4) Model Training: Use this dataset to train machine learning models (e.g., k-NN, Decision Trees) to recommend workouts or classify fitness goals.
